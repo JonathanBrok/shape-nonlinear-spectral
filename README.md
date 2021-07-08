@@ -27,9 +27,11 @@ On our machine - most of the scripts take a minute or so, with one exception: sc
 ## Citation
 If you find our work useful, please cite our paper:
 ```bash
-@article{Brokman2021ShapeSpectral,
-  title={Nonlinear Spectral Processing of Shapes via Zero-Homogeneous Flows},
+@inproceedings{brokman2021nonlinear,
+  title={Nonlinear Spectral Processing of Shapes via Zero-Homogeneous Flows.},
   author={Brokman, Jonathan and Gilboa, Guy},
+  booktitle={SSVM},
+  pages={40--51},
   year={2021}
 }
 ```
